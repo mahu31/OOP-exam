@@ -85,3 +85,4 @@ console.log("Intersectia diagonalelor: ", quadrilateral.calculateDiagonalInterse
 console.log('test')
 
 
+
