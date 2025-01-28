@@ -83,3 +83,5 @@ const quadrilateral = new Patrulater(
 console.log("Perimetrul patrulaterului: ", quadrilateral.calculatePerimeter());
 console.log("Intersectia diagonalelor: ", quadrilateral.calculateDiagonalIntersection());
 console.log('test')
+
+
